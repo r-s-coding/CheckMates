@@ -21,7 +21,7 @@ This is a simple "Thank You" page designed for customers who scan a QR code.
 
 - **HTML5**: For the page structure.
 - **CSS3**: For styling, including layout and responsiveness.
-- **Responsive Design**: The layout is mobile-friendly using flexbox to adapts to different screen sizes.
+- **Responsive Design**: The layout is mobile-friendly using flexbox to adapt to different screen sizes.
 
 ## Customization
 
