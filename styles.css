@@ -7,11 +7,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* Optional Background Image */
-    background-image: url("images/canada_flag_background.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .container {
