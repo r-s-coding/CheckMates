@@ -5,14 +5,13 @@ This is a simple "Thank You" page designed for customers who scan a QR code.
 ## Features
 
 - **Responsive Design**: The page is designed to be mobile-friendly, ensuring it looks great on all screen sizes.
-- **Background Image**: A background image is displayed with the option for removal while maintaining a modern look.
 - **Thank You Message**: A clear and concise message expressing gratitude to the customer.
 - **Minimalistic Style**: Soft colors, clean fonts, and a simple layout to make the page welcoming and easy to navigate.
 
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a692d8ab-b11f-4ba5-b26c-a24a9065d3b8" alt="Sample screenshot on an iPhone 12/13 mini iOS 14.6" width="200" />
+  <img src="https://github.com/user-attachments/assets/941686f5-44ad-49ef-a749-4570075104bc" alt="Sample screenshot on an iPhone 12/13 mini iOS 14.6" width="200" />
   <br />
   <i>Sample screenshot on an iPhone 12/13 mini iOS 14.6</i>
 </p>
@@ -27,8 +26,7 @@ This is a simple "Thank You" page designed for customers who scan a QR code.
 
 To customize the page, you can change:
 
-1. **Background Image**: Replace the `background-image` URL in the CSS with your own image or remove it altogether.
-2. **Text Content**: Modify the "Thank You!" message in the `<p>` tag.
+1. **Text Content**: Modify the "Thank You!" message in the `<p>` tag.
 
 ## Installation
 
